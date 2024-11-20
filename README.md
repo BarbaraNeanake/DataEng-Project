@@ -26,7 +26,7 @@ Mahasiswa di Yogyakarta sangat bergantung pada media sosial untuk mengetahui cua
 Kami menggunakan pendekatan **forecasting** untuk memprediksi frekuensi postingan dengan kata kunci tertentu berdasarkan data cuaca. Model ini dioptimalkan dengan data historis yang telah dikumpulkan.
 
 ## **[PENTING]** 🎥 Demo & Presentasi
-- **Video Presentasi**: [bit.ly/PresentasiWeatherWhispers](bit.ly/PresentasiWeatherWhispers)
+- **Video Presentasi**: [Video Presentasi](https://drive.google.com/drive/folders/1ibYHM9KXHUKlCf_I8w-YdsIIhwvOn8nP?usp=sharing)
 - **Blog Post**: [https://sites.google.com/mail.ugm.ac.id/rekdat-weatherwhispers/home](https://sites.google.com/mail.ugm.ac.id/rekdat-weatherwhispers/home)
 
 ## ✨ Hasil dan Wawasan
