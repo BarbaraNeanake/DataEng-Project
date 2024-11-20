@@ -25,9 +25,9 @@ Mahasiswa di Yogyakarta sangat bergantung pada media sosial untuk mengetahui cua
 ## 🧠 Algoritme Predictive Modeling
 Kami menggunakan pendekatan **forecasting** untuk memprediksi frekuensi postingan dengan kata kunci tertentu berdasarkan data cuaca. Model ini dioptimalkan dengan data historis yang telah dikumpulkan.
 
-## 🎥 Demo & Presentasi
-- **Video Presentasi**: [Tautan ke Video](#)
-- **Blog Post**: [Tautan ke Blog](#)
+## **[PENTING]** 🎥 Demo & Presentasi
+- **Video Presentasi**: [bit.ly/PresentasiWeatherWhispers](bit.ly/PresentasiWeatherWhispers)
+- **Blog Post**: [https://sites.google.com/mail.ugm.ac.id/rekdat-weatherwhispers/home](https://sites.google.com/mail.ugm.ac.id/rekdat-weatherwhispers/home)
 
 ## ✨ Hasil dan Wawasan
 Proyek ini menunjukkan bagaimana cuaca ekstrem, seperti hujan deras atau suhu panas, dapat berdampak langsung pada jumlah dan jenis postingan di Twitter. Hasil ini memberikan wawasan yang berpotensi berguna untuk pengambilan keputusan terkait perencanaan cuaca dan komunikasi darurat.
@@ -36,7 +36,3 @@ Proyek ini menunjukkan bagaimana cuaca ekstrem, seperti hujan deras atau suhu pa
 - [Twitter API Documentation](https://developer.twitter.com)
 - [Virtual Crossing API Documentation](https://www.virtualcrossing.com)
 
-# 🔗 **LINK PENTING**
-- **Repository GitHub**: [link]
-- **Blog Post**: [link]
-- **Video Presentasi**: [link]
